@@ -1,0 +1,5 @@
+vi featuresofvi (this is used to create a vi markdown file)
+After that we can see a lot of tilt symbols 
+Now to add data we press i from the keyboard and type the text to be added to this file 
+To exit out of insert mode click on escape button on the keyboard
+:wq to save and quiet the vi file
